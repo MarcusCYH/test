@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
- <h1>New blade 3</h1>
+ <h1>New branch 3</h1>
 </body>
 </html>
